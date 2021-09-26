@@ -1,1 +1,0 @@
-Worker: node ./src/Synical's World Discord Bot.js
